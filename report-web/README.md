@@ -32,7 +32,7 @@
 1. 의존성 설치
    - `python -m pip install pypdf`
 2. 추출 실행
-   - `python report-web/scripts/extract_samsung_ds.py --pdf-dir "삼성전자 DS" --target "report-web/data/sample-data.json"`
+   - `python report-web/scripts/extract_samsung_ds.py --pdf-dir "materials/raw-pdf/samsung-ds" --target "report-web/data/sample-data.json"`
 3. 웹 새로고침
    - 필터/지표/리포트가 갱신된 데이터로 반영됩니다.
 
