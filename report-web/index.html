@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>대기업 채용공고 분석 리포트 생성기</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="background-shape background-shape--one"></div>
+  <div class="background-shape background-shape--two"></div>
+
+  <div class="app-shell">
+    <header class="site-header">
+      <div>
+        <p class="eyebrow">취업컨설팅 분석 도구</p>
+        <h1>대기업 최근 3개년 채용공고 분석 리포트</h1>
+        <p class="subtitle">직무 수요, 핵심 역량, 전형 패턴을 빠르게 요약해 컨설팅 보고서로 바로 활용하세요.</p>
+      </div>
+      <button id="copyReportBtn" class="primary-button">리포트 복사</button>
+    </header>
+
+    <main>
+      <section class="panel">
+        <h2>분석 조건</h2>
+        <div class="filter-grid">
+          <label>
+            기업
+            <select id="companySelect"></select>
+          </label>
+          <label>
+            기준 연도
+            <select id="yearSelect"></select>
+          </label>
+          <label>
+            직무 카테고리
+            <select id="jobCategorySelect">
+              <option value="all">전체</option>
+            </select>
+          </label>
+          <label>
+            지역
+            <select id="regionSelect">
+              <option value="all">전체</option>
+            </select>
+          </label>
+          <label class="label-span">
+            키워드
+            <input id="keywordInput" type="text" placeholder="예: AI, 반도체, 품질, 데이터" />
+          </label>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>핵심 지표</h2>
+        <div class="stats-grid">
+          <article class="stat-card">
+            <p>분석 대상 공고 수</p>
+            <span class="stat-value" id="totalCount">0</span>
+          </article>
+          <article class="stat-card">
+            <p>최다 직무군</p>
+            <span class="stat-value" id="topCategory">-</span>
+          </article>
+          <article class="stat-card">
+            <p>최다 요구 역량</p>
+            <span class="stat-value" id="topSkill">-</span>
+          </article>
+          <article class="stat-card">
+            <p>대표 전형 단계</p>
+            <span class="stat-value" id="commonStage">-</span>
+          </article>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>3개년 채용 트렌드</h2>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>연도</th>
+                <th>공고 수</th>
+                <th>주요 직무군</th>
+                <th>주요 역량</th>
+              </tr>
+            </thead>
+            <tbody id="trendTableBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>컨설팅 리포트</h2>
+        <div class="report-grid">
+          <article class="report-card">
+            <h3>요약 전략</h3>
+            <p id="strategySummary">조건을 선택하면 맞춤 전략이 생성됩니다.</p>
+          </article>
+          <article class="report-card">
+            <h3>실행 권고안</h3>
+            <ul id="recommendationList"></ul>
+          </article>
+          <article class="report-card">
+            <h3>심화 분석 노트</h3>
+            <p id="trendNote"></p>
+            <p id="competencyNote"></p>
+          </article>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

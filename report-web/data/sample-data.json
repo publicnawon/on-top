@@ -1,0 +1,765 @@
+[
+  {
+    "company": "LG전자",
+    "year": 2024,
+    "category": "SW",
+    "position": "가전 플랫폼 소프트웨어 엔지니어",
+    "region": "서울",
+    "skills": [
+      "C++",
+      "Linux",
+      "네트워크"
+    ],
+    "process": [
+      "서류",
+      "코딩테스트",
+      "실무면접",
+      "최종면접"
+    ],
+    "description": "스마트가전 플랫폼 소프트웨어 개발"
+  },
+  {
+    "company": "LG전자",
+    "year": 2024,
+    "category": "기구설계",
+    "position": "생활가전 기구설계 엔지니어",
+    "region": "창원",
+    "skills": [
+      "기구설계",
+      "3D CAD",
+      "문제해결"
+    ],
+    "process": [
+      "서류",
+      "인적성",
+      "실무면접",
+      "최종면접"
+    ],
+    "description": "생활가전 제품 기구 구조 설계"
+  },
+  {
+    "company": "LG전자",
+    "year": 2024,
+    "category": "품질",
+    "position": "품질보증 엔지니어",
+    "region": "평택",
+    "skills": [
+      "품질관리",
+      "통계분석",
+      "커뮤니케이션"
+    ],
+    "process": [
+      "서류",
+      "인적성",
+      "실무면접",
+      "최종면접"
+    ],
+    "description": "신제품 품질 검증 및 개선"
+  },
+  {
+    "company": "LG전자",
+    "year": 2025,
+    "category": "SW",
+    "position": "AI 서비스 개발자",
+    "region": "서울",
+    "skills": [
+      "Python",
+      "딥러닝",
+      "백엔드"
+    ],
+    "process": [
+      "서류",
+      "코딩테스트",
+      "실무면접",
+      "최종면접"
+    ],
+    "description": "가전 연동 AI 서비스 개발"
+  },
+  {
+    "company": "LG전자",
+    "year": 2025,
+    "category": "기구설계",
+    "position": "자동차 전장 기구설계 엔지니어",
+    "region": "평택",
+    "skills": [
+      "기구설계",
+      "열해석",
+      "협업"
+    ],
+    "process": [
+      "서류",
+      "인적성",
+      "실무면접",
+      "최종면접"
+    ],
+    "description": "전장 제품 구조 설계 및 검증"
+  },
+  {
+    "company": "LG전자",
+    "year": 2025,
+    "category": "품질",
+    "position": "소프트웨어 품질 엔지니어",
+    "region": "서울",
+    "skills": [
+      "테스트자동화",
+      "품질지표",
+      "문서화"
+    ],
+    "process": [
+      "서류",
+      "코딩테스트",
+      "실무면접",
+      "최종면접"
+    ],
+    "description": "소프트웨어 품질 체계 수립"
+  },
+  {
+    "company": "LG전자",
+    "year": 2026,
+    "category": "SW",
+    "position": "클라우드 플랫폼 엔지니어",
+    "region": "서울",
+    "skills": [
+      "클라우드",
+      "Kubernetes",
+      "DevOps"
+    ],
+    "process": [
+      "서류",
+      "코딩테스트",
+      "실무면접",
+      "임원면접"
+    ],
+    "description": "글로벌 서비스 운영 플랫폼 구축"
+  },
+  {
+    "company": "LG전자",
+    "year": 2026,
+    "category": "기구설계",
+    "position": "프리미엄 가전 기구설계 엔지니어",
+    "region": "창원",
+    "skills": [
+      "3D CAD",
+      "신뢰성",
+      "품질개선"
+    ],
+    "process": [
+      "서류",
+      "인적성",
+      "실무면접",
+      "임원면접"
+    ],
+    "description": "프리미엄 제품 구조 최적화"
+  },
+  {
+    "company": "LG전자",
+    "year": 2026,
+    "category": "품질",
+    "position": "글로벌 품질 개선 매니저",
+    "region": "평택",
+    "skills": [
+      "품질관리",
+      "데이터해석",
+      "프로젝트관리"
+    ],
+    "process": [
+      "서류",
+      "인적성",
+      "실무면접",
+      "임원면접"
+    ],
+    "description": "글로벌 품질 개선 과제 운영"
+  },
+  {
+    "company": "SK하이닉스",
+    "year": 2024,
+    "category": "SW",
+    "position": "스마트팩토리 개발자",
+    "region": "이천",
+    "skills": [
+      "Java",
+      "Spring",
+      "SQL"
+    ],
+    "process": [
+      "서류",
+      "코딩테스트",
+      "기술면접",
+      "최종면접"
+    ],
+    "description": "스마트팩토리 서비스 고도화"
+  },
+  {
+    "company": "SK하이닉스",
+    "year": 2024,
+    "category": "공정기술",
+    "position": "박막 공정 엔지니어",
+    "region": "청주",
+    "skills": [
+      "박막공정",
+      "데이터분석",
+      "품질개선"
+    ],
+    "process": [
+      "서류",
+      "필기",
+      "기술면접",
+      "최종면접"
+    ],
+    "description": "박막 공정 조건 설계 및 품질 향상"
+  },
+  {
+    "company": "SK하이닉스",
+    "year": 2024,
+    "category": "반도체설계",
+    "position": "DRAM 설계 엔지니어",
+    "region": "이천",
+    "skills": [
+      "회로설계",
+      "Verilog",
+      "검증"
+    ],
+    "process": [
+      "서류",
+      "필기",
+      "기술면접",
+      "최종면접"
+    ],
+    "description": "DRAM 제품 설계 및 검증"
+  },
+  {
+    "company": "SK하이닉스",
+    "year": 2025,
+    "category": "SW",
+    "position": "데이터 분석 엔지니어",
+    "region": "분당",
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning"
+    ],
+    "process": [
+      "서류",
+      "코딩테스트",
+      "기술면접",
+      "최종면접"
+    ],
+    "description": "제조 데이터 분석 및 예측 모델 운영"
+  },
+  {
+    "company": "SK하이닉스",
+    "year": 2025,
+    "category": "공정기술",
+    "position": "CMP 공정 엔지니어",
+    "region": "청주",
+    "skills": [
+      "CMP",
+      "통계분석",
+      "문제해결"
+    ],
+    "process": [
+      "서류",
+      "필기",
+      "기술면접",
+      "최종면접"
+    ],
+    "description": "CMP 공정 안정화 및 결함 저감"
+  },
+  {
+    "company": "SK하이닉스",
+    "year": 2025,
+    "category": "반도체설계",
+    "position": "NAND 설계 엔지니어",
+    "region": "이천",
+    "skills": [
+      "회로설계",
+      "타이밍분석",
+      "문제해결"
+    ],
+    "process": [
+      "서류",
+      "필기",
+      "기술면접",
+      "최종면접"
+    ],
+    "description": "NAND 회로 설계 및 성능 최적화"
+  },
+  {
+    "company": "SK하이닉스",
+    "year": 2026,
+    "category": "SW",
+    "position": "AI 공정 최적화 엔지니어",
+    "region": "분당",
+    "skills": [
+      "Python",
+      "딥러닝",
+      "MLOps"
+    ],
+    "process": [
+      "서류",
+      "코딩테스트",
+      "기술면접",
+      "임원면접"
+    ],
+    "description": "공정 최적화 AI 모델 개발"
+  },
+  {
+    "company": "SK하이닉스",
+    "year": 2026,
+    "category": "공정기술",
+    "position": "수율 개선 엔지니어",
+    "region": "청주",
+    "skills": [
+      "수율분석",
+      "데이터해석",
+      "품질개선"
+    ],
+    "process": [
+      "서류",
+      "필기",
+      "기술면접",
+      "임원면접"
+    ],
+    "description": "제품 수율 개선 프로젝트 수행"
+  },
+  {
+    "company": "SK하이닉스",
+    "year": 2026,
+    "category": "반도체설계",
+    "position": "차세대 패키지 설계 엔지니어",
+    "region": "이천",
+    "skills": [
+      "패키지설계",
+      "신호무결성",
+      "협업"
+    ],
+    "process": [
+      "서류",
+      "필기",
+      "기술면접",
+      "임원면접"
+    ],
+    "description": "고성능 패키지 구조 설계"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2025,
+    "category": "SW",
+    "position": "기구개발",
+    "region": "기흥",
+    "skills": [
+      "Python",
+      "데이터분석",
+      "전기전자공학",
+      "재료"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2025년 하반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2025,
+    "category": "SW",
+    "position": "패키지개발",
+    "region": "화성",
+    "skills": [
+      "Python",
+      "데이터분석",
+      "전기전자공학",
+      "재료"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2025년 하반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2025,
+    "category": "공정기술",
+    "position": "반도체공정기술",
+    "region": "기흥",
+    "skills": [
+      "공정개선",
+      "데이터해석",
+      "전기전자공학",
+      "재료"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2025년 상반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2025,
+    "category": "공정기술",
+    "position": "반도체공정기술",
+    "region": "천안",
+    "skills": [
+      "공정개선",
+      "데이터해석",
+      "전기전자공학",
+      "재료"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2025년 하반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2025,
+    "category": "공정기술",
+    "position": "반도체공정기술",
+    "region": "화성",
+    "skills": [
+      "공정개선",
+      "데이터해석",
+      "전기전자공학",
+      "재료"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2025년 하반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2025,
+    "category": "공정기술",
+    "position": "생산관리",
+    "region": "화성",
+    "skills": [
+      "공정개선",
+      "데이터해석",
+      "통계분석",
+      "SW개발"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2025년 하반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2025,
+    "category": "공정기술",
+    "position": "설비기술",
+    "region": "기흥",
+    "skills": [
+      "공정개선",
+      "데이터해석",
+      "전기전자공학",
+      "재료"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2025년 상반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2025,
+    "category": "공정기술",
+    "position": "설비기술",
+    "region": "천안",
+    "skills": [
+      "공정개선",
+      "데이터해석",
+      "전기전자공학",
+      "재료"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2025년 하반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2025,
+    "category": "공정기술",
+    "position": "설비기술",
+    "region": "화성",
+    "skills": [
+      "공정개선",
+      "데이터해석",
+      "전기전자공학",
+      "재료"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2025년 하반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2025,
+    "category": "공정기술",
+    "position": "평가및분석",
+    "region": "화성",
+    "skills": [
+      "공정개선",
+      "데이터해석",
+      "재료",
+      "금속"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2025년 하반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2025,
+    "category": "기타",
+    "position": "안전보건",
+    "region": "천안",
+    "skills": [
+      "환경",
+      "안전",
+      "화학",
+      "화공"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2025년 상반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2025,
+    "category": "기타",
+    "position": "안전보건",
+    "region": "화성",
+    "skills": [
+      "환경",
+      "안전",
+      "화학",
+      "화공"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2025년 하반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2025,
+    "category": "반도체설계",
+    "position": "반도체공정설계",
+    "region": "기흥",
+    "skills": [
+      "회로설계",
+      "검증",
+      "전기전자공학",
+      "재료"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2025년 상반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2025,
+    "category": "반도체설계",
+    "position": "반도체공정설계",
+    "region": "화성",
+    "skills": [
+      "회로설계",
+      "검증",
+      "전기전자공학",
+      "재료"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2025년 하반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2025,
+    "category": "반도체설계",
+    "position": "회로설계",
+    "region": "화성",
+    "skills": [
+      "회로설계",
+      "검증",
+      "전기전자공학"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2025년 하반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2026,
+    "category": "공정기술",
+    "position": "반도체공정기술",
+    "region": "기흥",
+    "skills": [
+      "공정개선",
+      "데이터해석",
+      "전기전자공학",
+      "재료"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2026년 상반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2026,
+    "category": "공정기술",
+    "position": "반도체공정기술",
+    "region": "천안",
+    "skills": [
+      "공정개선",
+      "데이터해석",
+      "전기전자공학",
+      "재료"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2026년 상반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2026,
+    "category": "공정기술",
+    "position": "생산관리",
+    "region": "기흥",
+    "skills": [
+      "공정개선",
+      "데이터해석",
+      "산공"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2026년 상반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2026,
+    "category": "공정기술",
+    "position": "생산관리",
+    "region": "천안",
+    "skills": [
+      "공정개선",
+      "데이터해석",
+      "통계분석",
+      "SW개발"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2026년 상반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2026,
+    "category": "공정기술",
+    "position": "설비기술",
+    "region": "기흥",
+    "skills": [
+      "공정개선",
+      "데이터해석",
+      "전기전자공학",
+      "재료"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2026년 상반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2026,
+    "category": "공정기술",
+    "position": "환경",
+    "region": "천안",
+    "skills": [
+      "공정개선",
+      "데이터해석",
+      "환경",
+      "안전"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2026년 상반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2026,
+    "category": "반도체설계",
+    "position": "반도체공정설계",
+    "region": "화성",
+    "skills": [
+      "회로설계",
+      "검증",
+      "전기전자공학",
+      "재료"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2026년 상반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2026,
+    "category": "반도체설계",
+    "position": "신호및시스템설계",
+    "region": "화성",
+    "skills": [
+      "회로설계",
+      "검증",
+      "전기전자공학"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2026년 상반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2026,
+    "category": "반도체설계",
+    "position": "회로설계",
+    "region": "기흥",
+    "skills": [
+      "회로설계",
+      "검증",
+      "SW개발",
+      "전기전자공학"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2026년 상반기 공고 기반 자동 추출"
+  },
+  {
+    "company": "삼성전자 DS",
+    "year": 2026,
+    "category": "반도체설계",
+    "position": "회로설계",
+    "region": "화성",
+    "skills": [
+      "회로설계",
+      "검증",
+      "전기전자공학"
+    ],
+    "process": [
+      "서류"
+    ],
+    "description": "2026년 상반기 공고 기반 자동 추출"
+  }
+]
